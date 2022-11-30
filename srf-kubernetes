@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:44:43.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="P6WNAErz7cJVK76O9jNd" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:52:03.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DxVm7EgHj2st2_Zw2nt9" version="20.2.7" type="github">
   <diagram id="n4KhqIUkfLUVjsjNBvyE" name="Seite-1">
     <mxGraphModel dx="1219" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-43" value="NimbraEdge Installer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="500" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-44" value="NimbraEdge Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-44" value="NimbraEdge Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-45" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-53" value="ArgoCD?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="500" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-54" value="Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-54" value="Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-55" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
