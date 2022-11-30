@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:34:05.518Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FkLQAa0pez_CxAH6QqqF" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:44:43.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="P6WNAErz7cJVK76O9jNd" version="20.2.7" type="github">
   <diagram id="n4KhqIUkfLUVjsjNBvyE" name="Seite-1">
-    <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-6" value="Cargo Swisstxt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-7" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-7" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-8" value="Inte Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-8" value="Inte Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,10 +52,10 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-18" value="AWS EKS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-19" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-19" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-20" value="PDP Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-20" value="PDP Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-21" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-27" value="AWS Deploy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-28" value="Play Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-28" value="Play Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-29" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,10 +100,10 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-34" value="Cargo Swisstxt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-35" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-35" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-36" value="Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-36" value="Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-37" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -148,7 +148,7 @@
         <mxCell id="-xCvB-sP157iyrwt6iFC-52" value="Cargo Swisstxt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-xCvB-sP157iyrwt6iFC-53" value="ArgoCD?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-xCvB-sP157iyrwt6iFC-53" value="ArgoCD?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-xCvB-sP157iyrwt6iFC-54" value="Applikationen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
