@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T16:15:45.885Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.9" etag="zoI-Ei0nDnsZ-bdLCON7" type="github"><diagram name="Seite-1" id="pewCBPbBmuKMEKx6Fm4s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T06:47:23.456Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XRnIU63lI4FRaWXnGaqd" version="20.6.0" type="github">
+  <diagram name="Seite-1" id="pewCBPbBmuKMEKx6Fm4s">
+    <mxGraphModel dx="2249" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E6JGaQylmBhRyEn7naQd-3" value="Platform" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Times New Roman;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="320" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; style=&quot;font-size: 30px;&quot;&gt;Feature&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=30;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="320" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-11" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-6" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;helm-charts&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;align=left;" vertex="1" parent="E6JGaQylmBhRyEn7naQd-11">
+          <mxGeometry width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Times New Roman;fontSize=12;image=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png;" vertex="1" parent="E6JGaQylmBhRyEn7naQd-11">
+          <mxGeometry x="1" y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-13" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;application&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;align=left;" vertex="1" parent="E6JGaQylmBhRyEn7naQd-12">
+          <mxGeometry width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Times New Roman;fontSize=12;image=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png;" vertex="1" parent="E6JGaQylmBhRyEn7naQd-12">
+          <mxGeometry x="1.0833333333333333" y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-15" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Image&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;latest&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;v1.0.0&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="281" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Times New Roman;fontSize=12;image=https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png;" vertex="1" parent="1">
+          <mxGeometry x="-275.74" y="291" width="46.74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-20" value="&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;Application&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-275.74" y="375" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6JGaQylmBhRyEn7naQd-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Times New Roman;fontSize=12;fontColor=#009900;image=https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="382.5" width="45" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
