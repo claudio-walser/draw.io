@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Seite-1" id="d-NRic54LziB5CBCi6PB">
-    <mxGraphModel>
+    <mxGraphModel dx="2377" dy="2444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;br&gt;&lt;div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1060" width="740" x="40" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="On-Premise" vertex="1">
+          <mxGeometry height="30" width="110" x="359" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="Medem SRF&lt;div&gt;Application&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="339" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Hive Backend - SRF&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Sub application&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="169" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Hive Ingest Device - SRF&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Sub application&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="339" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" value="&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Hive Playout Terminal - SRF&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.12px;&quot;&gt;Sub application&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="509" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-7" edge="1" parent="1" source="RAaoDal6gyy4J5IdHW7w-3" style="html=1;startArrow=diamondThin;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;startSize=10;endArrow=none;endFill=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="RAaoDal6gyy4J5IdHW7w-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="330" y="100" as="sourcePoint" />
+            <mxPoint x="490" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-8" edge="1" parent="1" source="RAaoDal6gyy4J5IdHW7w-3" style="html=1;startArrow=diamondThin;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;startSize=10;endArrow=none;endFill=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="RAaoDal6gyy4J5IdHW7w-5" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="410" y="165" as="sourcePoint" />
+            <mxPoint x="205" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-9" edge="1" parent="1" source="RAaoDal6gyy4J5IdHW7w-3" style="html=1;startArrow=diamondThin;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;startSize=10;endArrow=none;endFill=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="RAaoDal6gyy4J5IdHW7w-6" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="410" y="165" as="sourcePoint" />
+            <mxPoint x="375" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="Node" vertex="1">
+          <mxGeometry height="75" width="150" x="1170" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" value="Device" vertex="1">
+          <mxGeometry height="75" width="150" x="1170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="System Software" vertex="1">
+          <mxGeometry height="75" width="150" x="900" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Technology Service" vertex="1">
+          <mxGeometry height="75" width="150" x="1400" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="Facility" vertex="1">
+          <mxGeometry height="75" width="150" x="1400" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=equipment;archiType=square;" value="Equipment" vertex="1">
+          <mxGeometry height="75" width="150" x="1400" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" value="Communication Network" vertex="1">
+          <mxGeometry height="75" width="150" x="1400" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-18" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" value="Technology Collaboration" vertex="1">
+          <mxGeometry height="75" width="150" x="1139" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="Location" vertex="1">
+          <mxGeometry height="75" width="150" x="1390" y="-90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
