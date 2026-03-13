@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Seite-1" id="d-NRic54LziB5CBCi6PB">
-    <mxGraphModel dx="2377" dy="2444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="2497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,32 +40,110 @@
             <mxPoint x="375" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RAaoDal6gyy4J5IdHW7w-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="Node" vertex="1">
-          <mxGeometry height="75" width="150" x="1170" y="30" as="geometry" />
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="LZ&amp;nbsp;" vertex="1">
+          <mxGeometry height="75" width="150" x="110" y="420" as="geometry" />
         </mxCell>
         <mxCell id="RAaoDal6gyy4J5IdHW7w-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=device;" value="Device" vertex="1">
-          <mxGeometry height="75" width="150" x="1170" y="210" as="geometry" />
+          <mxGeometry height="75" width="150" x="1180" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="RAaoDal6gyy4J5IdHW7w-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="System Software" vertex="1">
-          <mxGeometry height="75" width="150" x="900" y="30" as="geometry" />
+          <mxGeometry height="75" width="150" x="910" y="-510" as="geometry" />
         </mxCell>
-        <mxCell id="RAaoDal6gyy4J5IdHW7w-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Technology Service" vertex="1">
-          <mxGeometry height="75" width="150" x="1400" y="30" as="geometry" />
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Database Service" vertex="1">
+          <mxGeometry height="75" width="150" x="840" as="geometry" />
         </mxCell>
-        <mxCell id="RAaoDal6gyy4J5IdHW7w-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="Facility" vertex="1">
-          <mxGeometry height="75" width="150" x="1400" y="210" as="geometry" />
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="AWS Cloud" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="683" as="geometry" />
         </mxCell>
         <mxCell id="RAaoDal6gyy4J5IdHW7w-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=equipment;archiType=square;" value="Equipment" vertex="1">
-          <mxGeometry height="75" width="150" x="1400" y="320" as="geometry" />
+          <mxGeometry height="75" width="150" x="1410" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="RAaoDal6gyy4J5IdHW7w-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" value="Communication Network" vertex="1">
-          <mxGeometry height="75" width="150" x="1400" y="120" as="geometry" />
+          <mxGeometry height="75" width="150" x="1410" y="-420" as="geometry" />
         </mxCell>
         <mxCell id="RAaoDal6gyy4J5IdHW7w-18" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" value="Technology Collaboration" vertex="1">
-          <mxGeometry height="75" width="150" x="1139" y="-90" as="geometry" />
+          <mxGeometry height="75" width="150" x="1149" y="-630" as="geometry" />
         </mxCell>
-        <mxCell id="RAaoDal6gyy4J5IdHW7w-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="Location" vertex="1">
-          <mxGeometry height="75" width="150" x="1390" y="-90" as="geometry" />
+        <mxCell id="RAaoDal6gyy4J5IdHW7w-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="eu-west-1" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-1" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="Azure Cloud" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-2" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="Heroku" vertex="1">
+          <mxGeometry height="75" width="150" x="1180" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="ZHAAR MDC-Herdern" vertex="1">
+          <mxGeometry height="75" width="150" x="1350" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="ZHAAR MDC-Herdern" vertex="1">
+          <mxGeometry height="75" width="150" x="1520" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="ZhFER MDC-TC" vertex="1">
+          <mxGeometry height="75" width="150" x="1690" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=facility;archiType=square;" value="Managed Enterprise Client" vertex="1">
+          <mxGeometry height="75" width="150" x="1860" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="Zürich Leutschenbach" vertex="1">
+          <mxGeometry height="75" width="150" x="1180" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="Zürich Herdern" vertex="1">
+          <mxGeometry height="75" width="150" x="1350" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-9" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=location;archiType=square;fillColor=#efd1e4;" value="us-east-1" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-10" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="Azure Landingzone&lt;div&gt;Z001&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-11" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="AWS Landingzone&lt;div&gt;Z002&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-12" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="VM&amp;nbsp;&lt;div&gt;mshp-backend-2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-13" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" value="VM&amp;nbsp;&lt;div&gt;mshp-backend-1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-14" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Postgres" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="RabbitMQ" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="MSSQL" vertex="1">
+          <mxGeometry height="75" width="150" x="1180" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-17" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Apache" vertex="1">
+          <mxGeometry height="75" width="150" x="1350" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-18" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="IIS" vertex="1">
+          <mxGeometry height="75" width="150" x="1520" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-19" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Windows Server" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-20" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="RHEL" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-21" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" value="Vmware ESXi" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-22" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Web Service" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-23" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Container Service" vertex="1">
+          <mxGeometry height="75" width="150" x="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-24" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="Storage Service" vertex="1">
+          <mxGeometry height="75" width="150" x="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-25" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="NFS/MFS/EFS" vertex="1">
+          <mxGeometry height="75" width="150" x="840" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cINoqFtw1s4pDaZanWkH-26" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" value="S3" vertex="1">
+          <mxGeometry height="75" width="150" x="1010" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
